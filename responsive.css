@@ -15,12 +15,16 @@
         margin-left: 87px;
     }
     .flowers-container{
-        margin-left: 35px;
+        margin-left: 38px;
     }
     .dev-details{
         gap: 20px;
     }
     .header-content{
         text-align: center;
+    }
+    .hot-img{
+        margin: 0px 0px;
+        margin-right: 120px;
     }
 }
