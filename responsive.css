@@ -1,0 +1,14 @@
+@media screen and (max-width:576px) {
+    .header, .hot-deal{
+        flex-direction: column-reverse;
+        justify-items: center;
+        gap:0px;
+    }    
+    .flowers-container, .dev-details, .insta-gallery{
+        flex-direction: column;
+        justify-items: center;
+    }
+    .header-content{
+        text-align: center;
+    }
+}
