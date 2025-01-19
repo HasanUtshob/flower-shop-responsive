@@ -2,11 +2,20 @@
     .header, .hot-deal{
         flex-direction: column-reverse;
         justify-items: center;
+        justify-content: center;
         gap:0px;
     }    
     .flowers-container, .dev-details, .insta-gallery{
         flex-direction: column;
         justify-items: center;
+        justify-content: center;
+       
+    }
+    .insta-gallery{
+        margin-left: 87px;
+    }
+    .dev-details{
+        gap: 20px;
     }
     .header-content{
         text-align: center;
